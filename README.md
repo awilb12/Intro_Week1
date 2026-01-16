@@ -23,8 +23,10 @@
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
    		- The very base of the filesystem
+ - path: address on your computer
 	- Absolute paths
 		- All absolute paths begin at the root- start with /
+    	- very specific, can follow directly to a specific file
 	- Relative paths
 		- Don't start with /
 		- Working directories
