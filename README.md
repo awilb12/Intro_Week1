@@ -1,5 +1,7 @@
 # Welcome to Foundations of Computing for Biologists
 
+- sys-help@loni.org
+
 - Introductions
 
 - Syllabus Overview and Questions
