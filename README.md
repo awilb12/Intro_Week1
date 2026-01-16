@@ -18,7 +18,7 @@
   - File storage (hard drives)
   - CPU
   - GPU
-
+serial computing - one after another; parallel computing - alot of things at once
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/FoundCompBio-Spr26/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
